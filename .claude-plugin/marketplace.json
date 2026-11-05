@@ -1,0 +1,14 @@
+{
+  "name": "session-names",
+  "owner": {
+    "name": "markoboskoauroville"
+  },
+  "plugins": [
+    {
+      "name": "session-names",
+      "source": "./",
+      "description": "Every Claude Code session names itself PLACE_SES<n>_DD-MON, e.g. MAC_SES1_05-NOV."
+    }
+  ],
+  "description": "Session names for Claude Code: PLACE_SES<n>_DD-MON"
+}

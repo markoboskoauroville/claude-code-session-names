@@ -1,0 +1,9 @@
+{
+  "name": "session-names",
+  "version": "1.0.0",
+  "description": "Every Claude Code session names itself PLACE_SES<n>_DD-MON, e.g. MAC_SES1_05-NOV: where it runs, the day's number, the date.",
+  "author": {
+    "name": "Marko Bosko",
+    "url": "https://github.com/markoboskoauroville"
+  }
+}
