@@ -1,3 +1,7 @@
+
+
+## From the former README (9.11.2026)
+
 # Session names for Claude Code
 
 Every Claude Code session names itself by **where it runs, the day's number, and the date**:
